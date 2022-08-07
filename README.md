@@ -10,6 +10,8 @@ My Portfolio showing some of my works
   
 - [License](#license)
 
+![](./public/images/website1.png)
+
 ## Installation
 To install the necessary dependencies, run the following command:
 ```
