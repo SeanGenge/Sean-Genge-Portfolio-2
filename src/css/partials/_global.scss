@@ -1,0 +1,59 @@
+body {
+    background-color: $primary-colour;
+    color: $black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.offwhite-bg {
+    background-color: $primary-colour;
+}
+
+.h1 {
+    font-family: 'Acme', sans-serif;
+}
+
+.h1:first-letter {
+    color: $tertiary-colour;
+}
+
+.heading-font {
+    font-family: 'Acme', sans-serif;
+    
+    span {
+        color: $tertiary-colour;
+    }
+}
+
+.active {
+    color: $tertiary-colour !important;
+}
+
+.frosted-glass {
+    opacity: 0.85;
+    backdrop-filter: blur(5px);
+}
+
+section {
+    margin: 4rem 0;
+}
+
+.primary-border {
+    border-top: 2px solid $tertiary-colour;
+}
+
+.main-container {
+    margin: 0 auto;
+    background-color: $white;
+}
+
+@include media-breakpoint-up(md) {
+    .primary-border {
+        border: 2px solid $tertiary-colour;
+    }
+    
+    .main-container {
+        margin: 5rem auto;
+        border-radius: 1rem;
+        background-color: $white;
+    }
+}

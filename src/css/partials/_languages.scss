@@ -1,0 +1,28 @@
+#languages {
+    margin-top: 4rem;
+    
+    .h3 {
+        text-align: center;
+    }
+    
+    .languages-list {
+        max-width: 20rem;
+        min-width: 14rem;
+        margin: 0 auto;
+        
+        &__item {
+            background-color: $primary-colour;
+            padding: 0.5rem;
+            margin-bottom: 0.2rem;
+            border: 1px solid $tertiary-colour;
+            border-radius: 0.5rem;
+            border-width: 1px !important;
+        }
+    }
+}
+
+@include media-breakpoint-up(md) {
+    #languages {
+        margin-top: 0;
+    }
+}

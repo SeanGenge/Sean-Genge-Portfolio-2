@@ -1,0 +1,42 @@
+.heading-name {
+    font-size: 4rem;
+    margin-top: 1rem;
+    text-align: center;
+    user-select: none;
+    
+    li {
+        transition: all 1.3s ease-in-out;
+        max-width: 1em;
+        opacity: 1;
+    }
+}
+
+#about-me {
+    .h1 {
+        text-align: left;
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    
+    .h2 {
+        margin-bottom: 5rem;
+        text-decoration: underline;
+        text-decoration-color: $tertiary-colour;
+    }
+}
+
+@include media-breakpoint-up(md) {
+    #about-me {
+        .info {
+            margin: 1rem 2rem;
+        }
+    }
+}
+
+@include media-breakpoint-up(xxl) {
+    #about-me {
+        .info {
+            margin: 1rem 5rem;
+        }
+    }
+}
