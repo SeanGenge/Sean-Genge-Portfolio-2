@@ -13,7 +13,7 @@ class Languages extends React.Component {
 				<Container id="languages">
 					<div className="h3"><span>L</span>anguages</div>
 					<ListGroup className="languages-list">
-                        <ListGroup.Item className="languages-list__item">Javascript (ECMA6)</ListGroup.Item>
+                        <ListGroup.Item className="languages-list__item">JavaScript (ECMA6)</ListGroup.Item>
                         <ListGroup.Item className="languages-list__item">React</ListGroup.Item>
 						<ListGroup.Item className="languages-list__item">Express.js</ListGroup.Item>
 						<ListGroup.Item className="languages-list__item">Heroku</ListGroup.Item>

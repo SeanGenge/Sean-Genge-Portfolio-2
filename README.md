@@ -1,9 +1,11 @@
 # Sean Genge's Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-My Portfolio showcasing some of my works. This project was built using React, SCSS, node.js, webpack, babel and express. The finished portfolio is hosted on heroku on: https://sean-genge.herokuapp.com/
+My Portfolio showcasing some of my works. The finished portfolio is hosted on heroku on: https://sean-genge.herokuapp.com/
 
 ## Table of Contents
+- [Languages/Tools Used](#languagestools-used)
+
 - [Installation](#installation)
   
 - [Usage](#usage)
@@ -11,6 +13,16 @@ My Portfolio showcasing some of my works. This project was built using React, SC
 - [License](#license)
 
 ![](./public/images/website1.png)
+
+## Languages/Tools Used
+ - JavaScript
+ - HTML
+ - React
+ - NodeJs
+ - Webpack
+ - Babel
+ - ExpressJs
+ - SCSS
 
 ## Installation
 To install the necessary dependencies, run the following command:
