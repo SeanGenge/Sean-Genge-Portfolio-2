@@ -18,7 +18,7 @@ class Project extends React.Component {
                     <Card.Img variant="top" src={image} />
                     <div className="project-card__buttons frosted-glass">
                         <a href={project.github} target="_blank"><i className="fa-brands fa-github"></i>GitHub</a>
-                        {project.deployed && (<a href={project.deployed} target="_blank"><i className="fa-solid fa-arrow-up-right-from-square"></i>Website</a>)}
+                        {project.deployed && (<a href={project.deployed} target="_blank"><i className="fa-solid fa-arrow-up-right-from-square"></i>Deployed</a>)}
                     </div>
                     <Card.Body className="project-card-body">
                         <Card.Title>{project.name}</Card.Title>

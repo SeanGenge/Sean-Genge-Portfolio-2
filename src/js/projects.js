@@ -24,7 +24,7 @@ const projectsList = [
         "languages": ["React", "JavaScript", "HTML", "Babel", "Webpack", "CSS", "Node.js"]
     },
     {
-        "name": "Professional Readme Generator",
+        "name": "Readme Generator using the CMD",
         "description": "Generate github readme.md files",
         "image": "readmeGenerator.png",
         "github": "https://github.com/SeanGenge/readme_generator",
@@ -40,7 +40,7 @@ const projectsList = [
         "languages": ["HTML", "JavaScript", "CSS", "Moment.js", "Bootstrap"]
     },
     {
-        "name": "Weather",
+        "name": "Weather App",
         "description": "View weather information on any city",
         "image": "Weather.png",
         "github": "https://github.com/SeanGenge/Weather",
