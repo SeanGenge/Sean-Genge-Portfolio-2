@@ -14,7 +14,7 @@ My Portfolio showcasing some of my works. The finished portfolio is hosted on he
 
 ### Preview of the portfolio
 
-![](./public/images/website1.png)
+![](./public/images/website.png)
 
 ## Languages/Tools Used
  - JavaScript
