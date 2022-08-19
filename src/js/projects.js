@@ -5,7 +5,7 @@ const projectsList = [
         "image": "Wolfies.png",
         "github": "https://github.com/SeanGenge/Wolfies",
         "deployed": null,
-        "languages": ["React", "Javascript", "TheMovieDB API", "HTML", "CSS", "Bootstrap", "SCSS", "NodeJS"]
+        "languages": ["React", "JavaScript", "TheMovieDB API", "HTML", "CSS", "Bootstrap", "SCSS", "Node.js"]
     },
     {
         "name": "m&mDB (Movies and music db)",
@@ -13,7 +13,7 @@ const projectsList = [
         "image": "m_mDB.png",
         "github": "https://github.com/SeanGenge/m-mDB",
         "deployed": "https://seangenge.github.io/m-mDB/",
-        "languages": ["Javascript", "TheMovieDB API", "TheAudioDB API", "HTML", "CSS", "MaterializeCSS"]
+        "languages": ["JavaScript", "TheMovieDB API", "TheAudioDB API", "HTML", "CSS", "MaterializeCSS"]
     },
     {
         "name": "Fill",
@@ -21,7 +21,7 @@ const projectsList = [
         "image": "Fill.png",
         "github": "https://github.com/SeanGenge/Fill",
         "deployed": "https://seangenge.github.io/Fill/",
-        "languages": ["React", "Javascript", "HTML", "Babel", "Webpack", "CSS", "NodeJS"]
+        "languages": ["React", "JavaScript", "HTML", "Babel", "Webpack", "CSS", "Node.js"]
     },
     {
         "name": "Professional Readme Generator",
@@ -29,7 +29,7 @@ const projectsList = [
         "image": "readmeGenerator.png",
         "github": "https://github.com/SeanGenge/readme_generator",
         "deployed": null,
-        "languages": ["Javascript", "CSS", "NodeJS"]
+        "languages": ["JavaScript", "CSS", "Node.js"]
     },
     {
         "name": "Work day scheduler",
@@ -37,7 +37,7 @@ const projectsList = [
         "image": "WorkDayScheduler.png",
         "github": "https://github.com/SeanGenge/Work-day-scheduler",
         "deployed": "https://seangenge.github.io/Work-day-scheduler/",
-        "languages": ["HTML", "Javascript", "CSS", "MomentJs", "Bootstrap"]
+        "languages": ["HTML", "JavaScript", "CSS", "Moment.js", "Bootstrap"]
     },
     {
         "name": "Weather",
@@ -45,7 +45,7 @@ const projectsList = [
         "image": "Weather.png",
         "github": "https://github.com/SeanGenge/Weather",
         "deployed": "https://seangenge.github.io/Weather/",
-        "languages": ["HTML", "Javascript", "Weather API", "CSS", "Bootstrap"]
+        "languages": ["HTML", "JavaScript", "Weather API", "CSS", "Bootstrap"]
     }
 ]
 
