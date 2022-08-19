@@ -12,6 +12,8 @@ My Portfolio showcasing some of my works. The finished portfolio is hosted on he
   
 - [License](#license)
 
+### Preview of the portfolio
+
 ![](./public/images/website1.png)
 
 ## Languages/Tools Used
@@ -33,8 +35,6 @@ To install the necessary dependencies, run the following command:
 ## Usage
 - npm run dev: This is for development. Compiles the files and start the server locally. Does not minify the files.
 - npm run build: This is for production. Compiles and minifies the files in the dist folder.
-- npm start: Start the server locally.
-
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license
