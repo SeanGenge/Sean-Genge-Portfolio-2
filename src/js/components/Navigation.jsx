@@ -22,7 +22,7 @@ class Navigation extends React.Component {
 								<Nav.Link href="#about-me">About Me</Nav.Link>
 								<Nav.Link href="#projects">Projects</Nav.Link>
 								<Nav.Link href="#contact-me">Contact Me</Nav.Link>
-								{/* <Nav.Link href="#resume" className="me-5">Resume</Nav.Link> */}
+								<Nav.Link href="https://docs.google.com/document/d/1xdUnM79A0TRbf5GVbd67HZTyMwSXj1AihVyWTdo3x4M/edit?usp=sharing" target="_blank" className="me-5">Resume</Nav.Link>
 							</Nav>
 						</Navbar.Collapse>
 					</Container>
