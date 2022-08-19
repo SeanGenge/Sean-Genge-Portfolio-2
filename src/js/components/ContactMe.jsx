@@ -13,6 +13,7 @@ class ContactMe extends React.Component {
 					<Container>
 						<div className="h1">Contact Me</div>
 						<div className="socials">
+							<a href="mailto:seangenge@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
                             <a href="https://www.linkedin.com/in/seangenge/" target="_blank"><i className="fa-brands fa-linkedin"></i></a>
                             <a href="https://github.com/SeanGenge" target="_blank"><i className="fa-brands fa-github"></i></a>
                         </div>

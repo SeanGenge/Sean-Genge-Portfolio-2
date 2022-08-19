@@ -11,7 +11,7 @@ class Footer extends React.Component {
 			<>
 				<footer className="footer">
                     <Container>
-                        
+						
                     </Container>
                 </footer>
 			</>

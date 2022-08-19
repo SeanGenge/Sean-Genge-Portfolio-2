@@ -16,12 +16,15 @@ class AboutMe extends React.Component {
 			<>
 				<section id="about-me">
 					<Container>
-						<div className="heading-name heading-font">
-							<span>S</span>ean <span>G</span>enge
-						</div>
-						<div className="h2 text-center">
-							A full-stack web developer
-						</div>
+						<Row className="heading-group">
+							<div className="heading-name heading-font">
+								<span>S</span>ean <span>G</span>enge
+							</div>
+							<div className="h2 text-center">
+								A full-stack web developer
+							</div>
+							<img className="pfp" src="/images/pfp.jpg" />
+						</Row>
 						<Row>
 							<Col sm={12} md={7}>
 								<div className="h1">About Me</div>
