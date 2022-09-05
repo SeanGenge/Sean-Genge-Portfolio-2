@@ -8,6 +8,14 @@ const projectsList = [
     //     "languages": ["React", "JavaScript", "TheMovieDB API", "HTML", "CSS", "Bootstrap", "SCSS", "Node.js"]
     // },
     {
+        "name": "Farmers Market Organisator",
+        "description": "Organize markets to rent out to stallholders or find products as a shopper",
+        "image": "farmersMarketOrganiser.png",
+        "github": "https://github.com/rschragger/Farmers-Market-Organiser",
+        "deployed": "https://farmers-market-organiser-app.herokuapp.com/",
+        "languages": ["HTML", "JavaScript", "CSS", "Moment.js", "Bootstrap", "express", "Multer", "validator.js"]
+    },
+    {
         "name": "Github Readme Generator",
         "description": "Simple UI for generating readme files",
         "image": "readmeGenerator.png",
@@ -47,14 +55,14 @@ const projectsList = [
         "deployed": "https://seangenge.github.io/Fill/",
         "languages": ["React", "JavaScript", "HTML", "Babel", "Webpack", "CSS", "Node.js"]
     },
-    {
-        "name": "Work day scheduler",
-        "description": "Add notes for today. Colour coded to see the current time",
-        "image": "WorkDayScheduler.png",
-        "github": "https://github.com/SeanGenge/Work-day-scheduler",
-        "deployed": "https://seangenge.github.io/Work-day-scheduler/",
-        "languages": ["HTML", "JavaScript", "CSS", "Moment.js", "Bootstrap"]
-    }
+    // {
+    //     "name": "Work day scheduler",
+    //     "description": "Add notes for today. Colour coded to see the current time",
+    //     "image": "WorkDayScheduler.png",
+    //     "github": "https://github.com/SeanGenge/Work-day-scheduler",
+    //     "deployed": "https://seangenge.github.io/Work-day-scheduler/",
+    //     "languages": ["HTML", "JavaScript", "CSS", "Moment.js", "Bootstrap"]
+    // }
 ]
 
 export default projectsList;
